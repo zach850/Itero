@@ -1,0 +1,5 @@
+remote_theme: pages-themes/midnight@v0.2.0
+title: Itero
+description: Flashcards that adapt to you
+plugins:
+  - jekyll-remote-theme
