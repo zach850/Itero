@@ -2,7 +2,7 @@
 
 Last updated: March 3, 2026
 
-Itero does not collect, store, or transmit any personal data. All data is stored locally on your device.
+Iterem does not collect, store, or transmit any personal data. All data is stored locally on your device.
 
 ## Contact
 
